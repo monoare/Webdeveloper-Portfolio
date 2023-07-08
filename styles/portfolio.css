@@ -21,7 +21,7 @@ body {
 .section-title {
   color: #181818;
   text-align: center;
-  font-size: 35px;
+  font-size: 25px;
   font-weight: 700;
 }
 
@@ -160,7 +160,7 @@ main section {
 
 .resume-item-title {
   color: #474747;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 700;
   margin-bottom: 10px;
 }
@@ -173,6 +173,7 @@ main section {
 .resume-item-description,
 .resume-item-institute {
   color: #757575;
+  font-size: 16px;
 }
 
 .resume-container hr {
